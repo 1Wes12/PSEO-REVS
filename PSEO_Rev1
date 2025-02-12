@@ -1,3 +1,9 @@
+<!--Make sure to add new indents in the school names to make them line up in the middle-->
+<!--Line the number, school name, description, and image up to indent in the middle-->
+<!--Honestly just use the center marking code so it lines up in the middle it will be easier that way-->
+<!--Also line up the Title thats at the very top to the center-->
+
+
 <style>
 
     table {
