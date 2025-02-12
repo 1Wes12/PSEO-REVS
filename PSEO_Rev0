@@ -1,0 +1,149 @@
+<style>
+    .indent-15 {
+        text-indent: 15px;
+}
+
+    .indent-20 {
+        text-indent: 20px;
+}
+
+    .indent-25 {
+        text-indent: 25px;
+}
+
+    .indent-30 {
+        text-indent: 30px;
+}
+
+    .indent-32 {
+        text-indent: 32px;
+}   
+
+    .indent-35 {
+        text-indent: 35px;
+}   
+
+    .indent-40 {
+        text-indent: 40px;
+}
+
+    .indent-45 {
+        text-indent: 45px;
+}
+
+    .indent-55 {
+        text-indent: 55px;
+}
+
+    .indent-60 {
+        text-indent: 60px;
+}
+
+    .indent-62 {
+        text-indent: 62px;
+}
+
+    .indent-65 {
+        text-indent: 60px;
+}
+
+    .indent-85 {
+        text-indent: 80;
+}
+
+    .indent-130 {
+        text-indent: 130;
+}
+</style>
+
+<head>
+    <b>
+<h1 class = "indent-130"><u><p style="font-size: 30px;">Top Ten Favorite Post-Secondary Education Options</p></u></h1>
+    </b>
+</head>
+
+<table border="1"> <!--table border-->
+    <b>
+    <tr>
+        <th>Number</th> <!--table heading 1-->
+        <th>School Name</th> <!--table heading 2-->
+        <th>Description</th> <!--table heading 3-->
+        <th>Image</th> <!--table heading 4-->
+    </tr>
+</b>
+    <tr>
+        <td class="indent-20"><p style="font-size: 24px;">1</p></td>
+        <td class="indent-45"><p style="font-size: 24px;">USI</p></td>
+        <td>I am interested in USI because it is close to where I am located.
+        I don't want to be out to far. It also has a good CS program.
+        If you read their website, a lot of people enjoy and think
+        that their CS program teaches you well and is enjoyable.</td>
+        <td><img src="C:\Users\B1\Downloads\USI_cover.jpeg" alt="University of Southern Indiana" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="indent-20"><p style="font-size: 24px;">2</p></td>
+        <td class="indent-40"><p style="font-size: 24px;">Heritage</p></td>
+        <td>Heritage would be an internship that involves programming
+        that I would do while I'm in college on the days I don't have
+        class. I am interested because my family members work there
+        and I feel like it would be a good hands on work experience
+        to improve my CS skills. I would also like to continue
+        working their after college and make it my full time
+        if possible.</td>
+        <td><img src="C:\Users\B1\Downloads\Heritage_cover.png" alt="Heritage" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="indent-20"><p style="font-size: 24px;">3</p></td>
+        <td class="indent-60"><p style="font-size: 24px;">UE</p></td>
+        <td>I would like to check out UE because it's close and my dad
+        used to go there. As well as a good CS program. Most of all my reasons
+        to wanting to go to a college is because it's either close or has a good
+        CS program. It's also nice to go somewhere that your family member has gone
+        to because it gives you someone with experience with the college your going to.</td>
+        <td><img src="C:\Users\B1\Downloads\UE_cover.png" alt="Heritage" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="indent-20"><p style="font-size: 24px;">4</p></td>
+        <td class="indent-60"><p style="font-size: 24px;">IU</p></td>
+        <td>Why I put Indiana University in Bloomington on here is because
+            I visited IU for a football game and I got to go inside the Luddy
+            building and I'm not making this up when I say this, it was the
+            coolest CS building I have ever seen. I almost choose IU just
+            because I was in love with the building. But I decided I would
+            check out other options because IU contains a lot of people.
+            Still a really good school with a good CS program though.</td>
+        <td><img src="C:\Users\B1\Downloads\IU_cover.jpg" alt="Heritage" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="indent-20"><p style="font-size: 24px;">5</p></td>
+        <td class="indent-32"><p style="font-size: 24px;">Ivy Tech</p></td>
+        <td>Ivy Tech would not be my first choice, but it is good to go to
+            if you would like to improve your CS skills. You can also take
+            your classes online and stay at home which is nice if you would
+            like to do college at home. I still would rather have visual learning
+            and watch the teacher explain things, so this would not be my first
+            choice. Still a good college though, it has a lot of options.
+        </td>
+        <td><img src="C:\Users\B1\Downloads\Ivy_cover.png" alt="Heritage" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="indent-20"><p style="font-size: 24px;">6</p></td>
+        <td class="indent-15" style="white-space: nowrap;"><p style="font-size: 24px;">Notre Dame</p></td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Henderson Community College</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Oakland City University</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Purdue University</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Ball State University</td>
+    </tr>
+</table>
