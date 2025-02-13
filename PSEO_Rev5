@@ -1,0 +1,198 @@
+<!--could use some work in organization-->
+<!--could get rid of usless code that is not needed-->
+<!--could simplify some code instead of having repetivness-->
+
+<style>
+    body {
+        background-color: white;
+}
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        table-layout: fixed;
+        background-color: rgb(16, 16, 71);
+}
+
+    th, td {
+        border: 1px solid white;
+        padding: 10px;
+        text-align: left;
+        word-wrap: break-word;
+}
+
+    td p {
+        margin: 0;
+        font-size: 24px;
+}
+
+    td img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+}
+
+    @media (max-width: 1000px) {
+      table {
+        width: 90%;
+        margin: auto;
+}  
+}
+
+    th, td {
+        font-size: 20px;
+        padding: 8px;
+}
+
+    td p {
+        font-size: 18px;
+}
+
+    .center {
+        text-align: center;
+        vertical-align: middle;
+}
+
+    .right {
+        text-align: right;
+        vertical-align: middle;
+}
+
+    .footer{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        font-size: 14px;
+}
+    
+</style>
+
+<head>
+    <b>
+<h1 class="center" style="color: rgb(22, 22, 82);"><u><p style="font-size: 80px; font-family: Impact;">Top Ten Favorite Post-Secondary Education Options</p></u></h1>
+    </b>
+</head>
+
+<table>
+    <b>
+    <tr>
+        <th class="center"><p style="font-size: 40px; color: white; font-family: Courier New;">Number</p></th>
+        <th class="center"><p style="font-size: 40px; color: white; font-family: Courier New;">School Name</p></th>
+        <th class="center"><p style="font-size: 40px; color: white; font-family: Courier New;">Description</p></th>
+        <th class="center"><p style="font-size: 40px; color: white; font-family: Courier New;">Image</p></th>
+    </tr>
+</b>
+    <tr>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">1</p></td>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">USI</p></td>
+        <td class="center"><p style="color: white; font-size: 30px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">I am interested in USI because it is close to where I am located.
+        I don't want to be out to far. It also has a good CS program.
+        If you read their website, a lot of people enjoy and think
+        that their CS program teaches you well and is enjoyable.</p></td>
+        <td class="center"><img src="C:\Users\B1\Downloads\USI_cover.jpeg" alt="University of Southern Indiana" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">2</p></td>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Heritage</p></td>
+        <td class="center"><p style="color: white; font-size: 30px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">Heritage would be an internship that involves programming
+        that I would do while I'm in college on the days I don't have
+        class. I am interested because my family members work there
+        and I feel like it would be a good hands on work experience
+        to improve my CS skills. I would also like to continue
+        working their after college and make it my full time
+        if possible.</p></td>
+        <td class="center"><img src="C:\Users\B1\Downloads\Heritage_cover.png" alt="Heritage" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">3</p></td>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">UE</p></td>
+        <td class="center"><p style="color: white; font-size: 30px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">I would like to check out UE because it's close and my dad
+        used to go there. As well as a good CS program. Most of all my reasons
+        to wanting to go to a college is because it's either close or has a good
+        CS program. It's also nice to go somewhere that your family member has gone
+        to because it gives you someone with experience with the college your going to.</p></td>
+        <td class="center"><img src="C:\Users\B1\Downloads\UE_cover.png" alt="University of Evansville" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">4</p></td>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">IU</p></td>
+        <td class="center"><p style="color: white; font-size: 30px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">Why I put Indiana University in Bloomington on here is because
+            I visited IU for a football game and I got to go inside the Luddy
+            building and I'm not making this up when I say this, it was the
+            coolest CS building I have ever seen. I almost choose IU just
+            because I was in love with the building. But I decided I would
+            check out other options because IU contains a lot of people.
+            Still a really good school with a good CS program though.</p></td>
+        <td class="center"><img src="C:\Users\B1\Downloads\IU_cover.jpg" alt="Indiana University" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">5</p></td>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Ivy Tech</p></td>
+        <td class="center"><p style="color: white; font-size: 30px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">Ivy Tech would not be my first choice, but it is good to go to
+            if you would like to improve your CS skills. You can also take
+            your classes online and stay at home which is nice if you would
+            like to do college at home. I still would rather have visual learning
+            and watch the teacher explain things, so this would not be my first
+            choice. Still a good college though, it has a lot of options.</p></td>
+        <td class="center"><img src="C:\Users\B1\Downloads\Ivy_cover.png" alt="Ivy Tech Community College" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">6</p></td>
+        <td class="center" style="white-space: nowrap;"><p style="font-size: 60px; color: white; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Notre Dame</p></td>
+        <td class="center"><p style="color: white; font-size: 30px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">I only chose this school because I know it's popular and my family loves to go to their football
+            games. I heard they have good teachers and classes and it is a private school. I would love to 
+            go to this school but I still have other options before this especially because of where Notre
+            Dame is located.</p></td>
+        <td class="center"><img src="C:\Users\B1\Downloads\Dame_cover.jpg" alt="University of Notre Dame" width="200" height="200"></td>
+
+    </tr>
+    <tr>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">7</p></td>
+        <td td class="center"><p style="font-size: 60px; color: white; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Henderson College</p></td>
+        <td class="center"><p style="color: white; font-size: 30px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">Henderson Community College is still 3 hours away but thats not too bad because it also has classes for
+            Computer and Information Technologies and it includes a lot of certificates that are offered. Even though
+            it's a bit of a drive I think I would enjoy their computer classes and learning about programming there.</p></td>
+        <td class="center"><img src="C:\Users\B1\Downloads\Henderson_cover.jpg" alt="Henderson Community College" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">8</p></td>
+        <td class="center" style="white-space: nowrap;"><p style="font-size: 60px; color: white; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Oakland City</p></td>
+        <td class="center"><p style="color: white; font-size: 30px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">Oakland City University has about 17 computer science involved core courses. Which is a really good
+            amount. They cover over 4 technologies. There are a lot of key learning outcomes and they have good
+            teaching and help you understand well. This would be a good school for me to go to pursue computer
+            science. It is only 30 minutes away from where I am located to, so I will definently keep this 
+            college in mind.</p></td>
+        <td class="center"><img src="C:\Users\B1\Downloads\Oak_cover.jpg" alt="Oakland City University" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">9</p></td>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Purdue University</p></td>
+        <td class="center"><p style="color: white; font-size: 30px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">Purdue is probably one of the coolest colleges to go to for computer science.
+            I have always wanted to go here but it's around 3 hours away which isnt bad.
+            But it's also a really big school with a lot of people. They have a bunch of
+            courses involving computer science but you also need languages in highschool
+            which I didn't do. But who knows, miracles can happen. I love how many
+            computer science related options they have for the students at this school.</p></td>
+        <td class="center"><img src="C:\Users\B1\Downloads\Purdue_cover.png" alt="Purdue University" width="200" height="200"></td>
+    </tr>
+    <tr>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">10</p></td>
+        <td class="center"><p style="font-size: 60px; color: white; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Ball State</p></td>
+        <td class="center"><p style="color: white; font-size: 30px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">Ball State University is 3 and a half hours away from me but I may
+            consider it because they have 5 computer science related courses.
+            So I will still check it out, they also allow online computer science
+            classes. The curriculum provides flexibility for working professionals.
+            Not one of my top colleges I want to go to but I will still check it out.</p></td>
+        <td class="center"><img src="C:\Users\B1\Downloads\Ball_cover.png" alt="Ball State University" width="200" height="200"></td>
+    </tr>
+</table>
+
+<footer>
+    <p style="color: rgb(22, 22, 82);">&copy; 2025 Post Secondary Education Options. All rights reserved.</p>
+    <p style="color: rgb(22, 22, 82);" class="right">Wesley Russell (SICTC Student)</p>
+</footer>
